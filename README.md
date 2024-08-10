@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spade-M
-- 👀 I’m interested in those who help me improve myself
+- 👀 Student of BCA
 
 
 <!---
