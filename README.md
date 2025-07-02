@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=spade-m&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @Spade-M
 - 👀 Student of BCA
 
